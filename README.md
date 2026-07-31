@@ -111,6 +111,7 @@ Business questions answered include:
 ---
 
 ## 📊 Power BI Dashboard
+<img width="1284" height="732" alt="image" src="https://github.com/user-attachments/assets/6da832fc-0d13-4dd4-8745-4997e9bc5fdc" />
 
 The interactive dashboard includes:
 
